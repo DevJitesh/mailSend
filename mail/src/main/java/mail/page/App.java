@@ -1,4 +1,4 @@
-package mail.page;
+﻿package mail.page;
 
 import java.beans.Visibility;
 import java.io.BufferedReader;
@@ -48,6 +48,8 @@ import frameworkServices.frameworkServices;
  */
 public class App
 {
+//testProgram
+
 	static WebDriver driver;
 	 
 	static InputStream input;
